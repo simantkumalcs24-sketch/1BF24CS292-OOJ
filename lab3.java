@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 class Book {
-    private String name;
-    private String author;
-    private double price;
-    private int num_pages;
+    String name;
+    String author;
+    double price;
+    int num_pages;
 
     public Book(String name, String author, double price, int num_pages) {
         this.name = name;
@@ -88,4 +88,5 @@ public class lab3 {
         sc.close();
     }
 }
+
 
