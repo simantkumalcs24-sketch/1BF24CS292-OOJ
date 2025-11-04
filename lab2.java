@@ -95,3 +95,4 @@ public class lab2n {
     }
 }
 
+
